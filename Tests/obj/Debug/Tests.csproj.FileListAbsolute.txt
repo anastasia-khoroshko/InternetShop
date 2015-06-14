@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\Tests\bin\Debug\Tests.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\Tests\bin\Debug\Tests.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\Tests\bin\Debug\EShopDomainModel.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\Tests\bin\Debug\EShopDomainModel.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\Tests\obj\Debug\Tests.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\Tests\obj\Debug\Tests.pdb

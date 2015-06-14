@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\EShopDomainModel\bin\Debug\EShopDomainModel.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\EShopDomainModel\bin\Debug\EShopDomainModel.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\EShopDomainModel\bin\Debug\EShopDomainModel.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\EShopDomainModel\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\EShopDomainModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\EShopDomainModel\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\EShopDomainModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\EShopDomainModel\obj\Debug\EShopDomainModel.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\EShopDomainModel\obj\Debug\EShopDomainModel.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\InternetShop\EShopDomainModel\obj\Debug\EShopDomainModel.csprojResolveAssemblyReference.cache
